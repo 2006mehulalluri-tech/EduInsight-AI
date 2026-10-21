@@ -1,15 +1,15 @@
-# EduInsight AI — College Review Quality Analysis System
+# EduInsight — College Review Quality Analysis System
 
 > **Confidence-Aware Institutional Course & Faculty Evaluation Framework**
 
-EduInsight AI addresses the issue of low-signal, non-constructive student feedback by combining a **Review Reliability Index (RRI)** with fine-grained dwell-time telemetry, threshold filtering, and dynamic faculty analytics.
+EduInsight addresses the issue of low-signal, non-constructive student feedback by combining a **Review Reliability Index (RRI)** with fine-grained dwell-time telemetry, threshold filtering, and dynamic faculty analytics.
 
 ---
 
 ## 🚀 Key Features
 * **Student Review Portal:** Interactive course/faculty questionnaire with question-level cognitive dwell time tracking.
 * **Faculty Analytics Dashboard:** Real-time sentiment breakdowns, confidence-filtered RRI slider, and metric distributions.
-* **Admin Management Panel:** Bulk CSV dataset import, evaluation window toggles, and RRI parameter tuning.
+* **Admin Management Panel:**  RRI parameter tuning.
 * **Testing & Quality Assurance:** Automated E2E test scripts (Selenium IDE) and stress/load test plans (Apache JMeter 5.6).
 
 ---
