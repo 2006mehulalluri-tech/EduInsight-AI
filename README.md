@@ -31,3 +31,26 @@ EduInsight AI addresses the issue of low-signal, non-constructive student feedba
 ```bash
 git clone [https://github.com/2006mehulalluri-tech/EduInsight-AI.git](https://github.com/2006mehulalluri-tech/EduInsight-AI.git)
 cd EduInsight-AI
+
+## 💻 Local Setup & Installation
+
+### Prerequisites
+* **Node.js:** v18.0 or higher
+* **npm:** v9.0 or higher
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/2006mehulalluri-tech/EduInsight-AI.git](https://github.com/2006mehulalluri-tech/EduInsight-AI.git)
+cd EduInsight-AI
+```
+
+### 2. Install Dependencies
+```bash
+npm install
+```
+
+### 3. Run Development Server
+```bash
+npm run dev
+```
+Open your browser and navigate to `http://localhost:5173`.
