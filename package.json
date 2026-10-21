@@ -1,0 +1,17 @@
+{
+  "name": "college-review-quality-system",
+  "version": "1.0.0",
+  "description": "Confidence-Aware Course & Faculty Evaluation Analytics System",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server/src/server.js",
+    "build": "npm --prefix client install && npm --prefix client run build && npm --prefix server install",
+    "dev": "node dev.js",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "build:client": "npm --prefix client run build",
+    "db:seed": "npm --prefix server run db:seed"
+  }
+}
+
